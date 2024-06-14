@@ -1,14 +1,15 @@
 # Curso Introdutório de Programação em Python
-Professor Daniel Santos&nbsp;
+Professor Daniel Santos  
 Turma: PYTHON 2402SG
 
-Início: 27/01/2024&nbsp;
+Início: 27/01/2024  
 Término: 13/04/2024
 
-Carga horária 120 horas&nbsp;
+Carga horária 120 horas  
 Horário: Sábado das 09h10 às 18h10.
 
-Local: Senai Roberto Simonsen (Brás - São Paulo)&nbsp;
+Local: Senai Roberto Simonsen (Brás - São Paulo)
+&nbsp;
 
 ![Senai Roberto Simonsen](https://lh3.googleusercontent.com/p/AF1QipOEILSwT_gp9yUkiGX8-wknZKeATuMpgE-fJkH9=s1360-w1360-h1020)
 

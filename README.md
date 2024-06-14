@@ -5,7 +5,7 @@ Turma: PYTHON 2402SG
 Início: 27/01/2024  
 Término: 13/04/2024
 
-Carga horária 120 horas  
+Carga horária de 120 horas  
 Horário: Sábado das 09h10 às 18h10.
 
 Local: Senai Roberto Simonsen (Brás - São Paulo)

@@ -1,0 +1,10 @@
+Leandro,8,9
+Priscilla,9,7
+Nathaniel,4,6
+Felipe,5,7
+Minoru,7,8
+Maria,3,5
+Carla,7,4
+Rebeca,4,9
+Luis,10,4
+Cassandro,8,3
